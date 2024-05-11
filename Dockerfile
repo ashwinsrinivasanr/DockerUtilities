@@ -1,3 +1,5 @@
+#This file is for building the image for setting up a devlopment environment for building Micrososft Code Components. 
+#This has all the required set up in place
 FROM ubuntu:latest
 
 WORKDIR /app
